@@ -47,11 +47,11 @@ Below are the passing test cases, using master bom recipes in [recipe-bom/590-12
 
 | SWR Requirements                     | Generated SWR recipes                                                          |
 | :---                                 | :-------------------------                                                     |
-| [123456-ExtraPlace](SWR.xlsx)        | No SWR recipes generated as per limitation `#1`                                |
-| [123457-NoPlace-ALL](SWR.xlsx)       | [All imapcted parts and feeders are removed](recipe-swr/123457-NoPlace-ALL/)   |
-| [123458-NoPlace-Partial](SWR.xlsx)   | [All impacted parts are removed, keeping feeders for non-impacted designators ](recipe-swr/123458-NoPlace-Partial/) |
-| [123459-PartSub-ALL](SWR.xlsx)       | [All impated parts and feeders are subbed](recipe-swr/123459-PartSub-ALL/)     |
-| [123460-PartSub-Partial](SWR.xlsx)   | No SWR recipes generated as per limitation `#2`                                |
+| [123456-EXTRAPLACE](SWR.xlsx)        | No SWR recipes generated as per limitation `#1`                                |
+| [123457-NOPLACE-ALL](SWR.xlsx)       | [All imapcted parts and feeders are removed](recipe-swr/123457-NOPLACE-ALL/)   |
+| [123458-NOPLACE-Partial](SWR.xlsx)   | [All impacted parts are removed, keeping feeders for non-impacted designators ](recipe-swr/123458-NOPLACE-PARTIAL/) |
+| [123459-PARTSUB-ALL](SWR.xlsx)       | [All impated parts and feeders are subbed](recipe-swr/123459-PARTSUB-ALL/)     |
+| [123460-PARTSUB-PARTIAL](SWR.xlsx)   | No SWR recipes generated as per limitation `#2`                                |
 
 <br>
 
