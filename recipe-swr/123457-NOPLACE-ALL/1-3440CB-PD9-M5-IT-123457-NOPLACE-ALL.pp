@@ -55,7 +55,7 @@
 		<Setting key="maxComponentsPerCircuitForMinimizingAlignmentMatrices" value="40" />
 		<Setting key="alternateFeedingStrategy" value="disallowAlternateOnSameFeeder" />
 	</General>
-	<Board id="3440CB-PD9-M5-IT" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" handlingClass="HIGH" maxComponentHeightNonProducingSide="20.000">
+	<Board id="3440CB-PD9-M5-IT-123457-NOPLACE-ALL" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" handlingClass="HIGH" maxComponentHeightNonProducingSide="20.000">
 		<Badmark modelId="r1574.8" x="-185.138" y="107.459" z="0.000" rz="0.00" refDes="B0" circuitNumber="1" />
 		<Badmark modelId="r1574.8" x="-48.998" y="107.459" z="0.000" rz="0.00" refDes="B1" circuitNumber="2" />
 		<Badmark modelId="r1574.8" x="-185.138" y="212.259" z="0.000" rz="0.00" refDes="B2" circuitNumber="3" />
@@ -541,78 +541,6 @@
 		<Component partNumber="510-500951" refDes="R204" circuitNumber="2" x="-104.848" y="13.839" z="0.000" rz="270.00" />
 		<Component partNumber="510-500951" refDes="R204" circuitNumber="3" x="-240.988" y="118.639" z="0.000" rz="270.00" />
 		<Component partNumber="510-500951" refDes="R204" circuitNumber="4" x="-104.848" y="118.639" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R115" circuitNumber="1" x="-153.338" y="66.989" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R115" circuitNumber="2" x="-17.198" y="66.989" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R115" circuitNumber="3" x="-153.338" y="171.789" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R115" circuitNumber="4" x="-17.198" y="171.789" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R116" circuitNumber="1" x="-152.338" y="66.979" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R116" circuitNumber="2" x="-16.198" y="66.979" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R116" circuitNumber="3" x="-152.338" y="171.779" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R116" circuitNumber="4" x="-16.198" y="171.779" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R128" circuitNumber="1" x="-187.208" y="58.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R128" circuitNumber="2" x="-51.068" y="58.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R128" circuitNumber="3" x="-187.208" y="163.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R128" circuitNumber="4" x="-51.068" y="163.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R129" circuitNumber="1" x="-168.158" y="58.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R129" circuitNumber="2" x="-32.018" y="58.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R129" circuitNumber="3" x="-168.158" y="163.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R129" circuitNumber="4" x="-32.018" y="163.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R138" circuitNumber="1" x="-187.218" y="57.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R138" circuitNumber="2" x="-51.078" y="57.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R138" circuitNumber="3" x="-187.218" y="162.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R138" circuitNumber="4" x="-51.078" y="162.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R139" circuitNumber="1" x="-168.168" y="57.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R139" circuitNumber="2" x="-32.028" y="57.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R139" circuitNumber="3" x="-168.168" y="162.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R139" circuitNumber="4" x="-32.028" y="162.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R147" circuitNumber="1" x="-226.638" y="49.729" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R147" circuitNumber="2" x="-90.498" y="49.729" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R147" circuitNumber="3" x="-226.638" y="154.529" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R147" circuitNumber="4" x="-90.498" y="154.529" z="0.000" rz="90.00" />
-		<Component partNumber="510-500956" refDes="R148" circuitNumber="1" x="-225.638" y="49.739" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R148" circuitNumber="2" x="-89.498" y="49.739" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R148" circuitNumber="3" x="-225.638" y="154.539" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R148" circuitNumber="4" x="-89.498" y="154.539" z="0.000" rz="270.00" />
-		<Component partNumber="510-500956" refDes="R189" circuitNumber="1" x="-187.208" y="27.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R189" circuitNumber="2" x="-51.068" y="27.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R189" circuitNumber="3" x="-187.208" y="132.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R189" circuitNumber="4" x="-51.068" y="132.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R190" circuitNumber="1" x="-168.158" y="27.309" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R190" circuitNumber="2" x="-32.018" y="27.309" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R190" circuitNumber="3" x="-168.158" y="132.109" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R190" circuitNumber="4" x="-32.018" y="132.109" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R196" circuitNumber="1" x="-187.218" y="26.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R196" circuitNumber="2" x="-51.078" y="26.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R196" circuitNumber="3" x="-187.218" y="131.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R196" circuitNumber="4" x="-51.078" y="131.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R197" circuitNumber="1" x="-168.168" y="26.259" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R197" circuitNumber="2" x="-32.028" y="26.259" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R197" circuitNumber="3" x="-168.168" y="131.059" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R197" circuitNumber="4" x="-32.028" y="131.059" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R53" circuitNumber="1" x="-187.208" y="89.309" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R53" circuitNumber="2" x="-51.068" y="89.309" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R53" circuitNumber="3" x="-187.208" y="194.109" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R53" circuitNumber="4" x="-51.068" y="194.109" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R54" circuitNumber="1" x="-168.158" y="89.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R54" circuitNumber="2" x="-32.018" y="89.359" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R54" circuitNumber="3" x="-168.158" y="194.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R54" circuitNumber="4" x="-32.018" y="194.159" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R62" circuitNumber="1" x="-187.218" y="88.309" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R62" circuitNumber="2" x="-51.078" y="88.309" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R62" circuitNumber="3" x="-187.218" y="193.109" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R62" circuitNumber="4" x="-51.078" y="193.109" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R63" circuitNumber="1" x="-168.168" y="88.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R63" circuitNumber="2" x="-32.028" y="88.359" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R63" circuitNumber="3" x="-168.168" y="193.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R63" circuitNumber="4" x="-32.028" y="193.159" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R96" circuitNumber="1" x="-221.468" y="77.139" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R96" circuitNumber="2" x="-85.328" y="77.139" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R96" circuitNumber="3" x="-221.468" y="181.939" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R96" circuitNumber="4" x="-85.328" y="181.939" z="0.000" rz="0.00" />
-		<Component partNumber="510-500956" refDes="R99" circuitNumber="1" x="-221.458" y="76.149" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R99" circuitNumber="2" x="-85.318" y="76.149" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R99" circuitNumber="3" x="-221.458" y="180.949" z="0.000" rz="180.00" />
-		<Component partNumber="510-500956" refDes="R99" circuitNumber="4" x="-85.318" y="180.949" z="0.000" rz="180.00" />
 		<Component partNumber="510-500980" refDes="R149" circuitNumber="1" x="-249.330" y="48.838" z="0.000" rz="180.00" />
 		<Component partNumber="510-500980" refDes="R149" circuitNumber="2" x="-113.190" y="48.838" z="0.000" rz="180.00" />
 		<Component partNumber="510-500980" refDes="R149" circuitNumber="3" x="-249.330" y="153.638" z="0.000" rz="180.00" />
@@ -3543,9 +3471,6 @@
 				<Feeder number="5" type="ITF2_08">
 					<Lane number="1" partNumber="510-501443" shapeId="SMR0402" />
 				</Feeder>
-				<Feeder number="9" type="ITF2_08">
-					<Lane number="1" partNumber="510-500956" shapeId="SMR0402" />
-				</Feeder>
 				<Feeder number="10" type="ITF2_08">
 					<Lane number="1" partNumber="511-500615" shapeId="SMC0201" />
 				</Feeder>
@@ -3641,9 +3566,6 @@
 				</Feeder>
 				<Feeder number="15" type="ITF2_08">
 					<Lane number="1" partNumber="510-502160" shapeId="SMR0201" />
-				</Feeder>
-				<Feeder number="16" type="ITF2_08">
-					<Lane number="1" partNumber="510-500956" shapeId="SMR0402" />
 				</Feeder>
 				<Feeder number="17" type="ITF2_08">
 					<Lane number="1" partNumber="511-500590" shapeId="SMC0201" />
@@ -7416,11 +7338,6 @@
 			<ReadFiducial refId="9_5_1_F2_0_3" boardNumber="6" refDes="F2_0" circuitNumber="3" />
 			<ReadFiducial refId="9_5_1_F2_4_3" boardNumber="6" refDes="F2_4" circuitNumber="3" />
 			<Place />
-			<Pick boardNumber="6" alignWith="AM_49" refDes="R147" circuitNumber="1" feederNumber="9" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="6" alignWith="AM_49" refDes="C379" circuitNumber="1" feederNumber="10" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
 			</Pick>
@@ -7441,11 +7358,6 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="6" alignWith="AM_49" refDes="R148" circuitNumber="3" feederNumber="9" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="6" alignWith="AM_49" refDes="C232" circuitNumber="1" feederNumber="10" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
 			</Pick>
@@ -7453,11 +7365,6 @@
 			<Place />
 			<Pick boardNumber="6" alignWith="AM_49" refDes="R428" circuitNumber="1" feederNumber="11" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="6" alignWith="AM_49" refDes="R99" circuitNumber="3" feederNumber="9" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
@@ -7629,11 +7536,6 @@
 			<ReadFiducial refId="9_4_3_F1_5_2" boardNumber="5" refDes="F1_5" circuitNumber="2" />
 			<ReadFiducial refId="9_4_3_F3_3_4" boardNumber="5" refDes="F3_3" circuitNumber="4" />
 			<ReadFiducial refId="9_4_3_F3_4_4" boardNumber="5" refDes="F3_4" circuitNumber="4" />
-			<Place />
-			<Pick boardNumber="5" alignWith="AM_42" refDes="R147" circuitNumber="2" feederNumber="9" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
 			<Place />
 			<Pick boardNumber="5" alignWith="AM_42" refDes="C294" circuitNumber="2" feederNumber="10" laneNumber="1">
 				<BadmarkReference refDes="B1" circuitNumber="2" />
@@ -9415,27 +9317,12 @@
 			<ReadFiducial refId="14_7_1_F0_4_1" boardNumber="8" refDes="F0_4" circuitNumber="1" />
 			<ReadFiducial refId="14_7_1_F2_6_3" boardNumber="8" refDes="F2_6" circuitNumber="3" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R197" circuitNumber="1" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="C257" circuitNumber="3" feederNumber="17" laneNumber="1">
 				<BadmarkReference refDes="B2" circuitNumber="3" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R190" circuitNumber="1" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R207" circuitNumber="1" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R128" circuitNumber="1" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9450,27 +9337,12 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R129" circuitNumber="1" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R111" circuitNumber="1" feederNumber="18" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R115" circuitNumber="1" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R87" circuitNumber="1" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R62" circuitNumber="1" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B0" circuitNumber="1" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9485,17 +9357,7 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R53" circuitNumber="1" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B0" circuitNumber="1" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R194" circuitNumber="3" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R196" circuitNumber="3" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B2" circuitNumber="3" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9505,17 +9367,7 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R190" circuitNumber="3" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R136" circuitNumber="3" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R139" circuitNumber="3" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B2" circuitNumber="3" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9525,17 +9377,7 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R129" circuitNumber="3" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="8" alignWith="AM_70" refDes="R87" circuitNumber="3" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R116" circuitNumber="3" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B2" circuitNumber="3" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9545,17 +9387,7 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R63" circuitNumber="3" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="8" alignWith="AM_70" refDes="R54" circuitNumber="3" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B2" circuitNumber="3" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-		</Index>
+			</Index>
 		<Index minBoardNumber="7" maxBoardNumber="8">
 			<Pick boardNumber="8" alignWith="AM_72" refDes="R85" circuitNumber="3" feederNumber="15" laneNumber="1">
 				<BadmarkReference refDes="B2" circuitNumber="3" />
@@ -9617,20 +9449,7 @@
 			<Place />
 		</Index>
 		<Index minBoardNumber="7" maxBoardNumber="8">
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R53" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<ReadFiducial refId="14_6_3_F1_1_2" boardNumber="7" refDes="F1_1" circuitNumber="2" />
-			<ReadFiducial refId="14_6_3_F1_4_2" boardNumber="7" refDes="F1_4" circuitNumber="2" />
-			<ReadFiducial refId="14_6_3_F3_6_4" boardNumber="7" refDes="F3_6" circuitNumber="4" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R193" circuitNumber="2" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R197" circuitNumber="2" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B1" circuitNumber="2" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9640,17 +9459,7 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R139" circuitNumber="2" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R109" circuitNumber="2" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R128" circuitNumber="2" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B1" circuitNumber="2" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9660,18 +9469,8 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R129" circuitNumber="2" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R193" circuitNumber="4" feederNumber="18" laneNumber="1">
 				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R63" circuitNumber="2" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
@@ -9680,27 +9479,12 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R53" circuitNumber="2" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R122" circuitNumber="4" feederNumber="18" laneNumber="1">
 				<BadmarkReference refDes="B3" circuitNumber="4" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R54" circuitNumber="2" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B1" circuitNumber="2" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R109" circuitNumber="4" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R197" circuitNumber="4" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B3" circuitNumber="4" />
 			</Pick>
 			<Align moduleId="NCLA" />
@@ -9710,57 +9494,12 @@
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R190" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R58" circuitNumber="4" feederNumber="18" laneNumber="1">
 				<BadmarkReference refDes="B3" circuitNumber="4" />
 			</Pick>
 			<Align moduleId="NCLA" />
 			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R139" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
 			<Pick boardNumber="7" alignWith="AM_65" refDes="R56" circuitNumber="4" feederNumber="18" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R129" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R128" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R115" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R116" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R62" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R63" circuitNumber="4" feederNumber="16" laneNumber="1">
-				<BadmarkReference refDes="B3" circuitNumber="4" />
-			</Pick>
-			<Align moduleId="NCLA" />
-			<Place />
-			<Pick boardNumber="7" alignWith="AM_65" refDes="R54" circuitNumber="4" feederNumber="16" laneNumber="1">
 				<BadmarkReference refDes="B3" circuitNumber="4" />
 			</Pick>
 			<Align moduleId="NCLA" />

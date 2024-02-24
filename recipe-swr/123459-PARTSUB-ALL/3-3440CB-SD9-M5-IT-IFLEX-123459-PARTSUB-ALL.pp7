@@ -11,7 +11,7 @@
 		<Setting key="transportConfiguration" value="SINGLE" />
 		<Setting key="performPrePick" value="true" />
 	</General>
-	<Board id="3440CB-SD9-M5-IT" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" cadOriginRz="0.0" handlingClass="HIGH" maxComponentHeightProducingSide="2.3" maxComponentHeightNonProducingSide="20.000">
+	<Board id="3440CB-SD9-M5-IT-123459-PARTSUB-ALL" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" cadOriginRz="0.0" handlingClass="HIGH" maxComponentHeightProducingSide="2.3" maxComponentHeightNonProducingSide="20.000">
 		<Badmark type="CIRCUIT" modelId="r1574.8" refDes="B0" circuitNumber="1" x="-185.138" y="113.459" rz="0.0" />
 		<Badmark type="CIRCUIT" modelId="r1574.8" refDes="B1" circuitNumber="2" x="-48.998" y="113.459" rz="0.0" />
 		<Badmark type="CIRCUIT" modelId="r1574.8" refDes="B2" circuitNumber="3" x="-185.138" y="8.659" rz="0.0" />
@@ -48,25 +48,25 @@
 			<FiducialReference refDes="F1_2" circuitNumber="2" />
 			<FiducialReference refDes="F2_4" circuitNumber="3" />
 		</AlignmentMatrix>
-		<Component partNumber="529-500168" refDes="U42" circuitNumber="1" x="-228.296" y="143.839" z="0.000" rz="270.0">
+		<Component partNumber="529-500168A" refDes="U42" circuitNumber="1" x="-228.296" y="143.839" z="0.000" rz="270.0">
 			<BadmarkReference refDes="B0" circuitNumber="1" />
 		</Component>
 		<Component partNumber="531-500480A" refDes="J3" circuitNumber="1" x="-232.139" y="118.509" z="0.000" rz="0.0">
 			<BadmarkReference refDes="B0" circuitNumber="1" />
 		</Component>
-		<Component partNumber="529-500168" refDes="U42" circuitNumber="2" x="-92.156" y="143.839" z="0.000" rz="270.0">
+		<Component partNumber="529-500168A" refDes="U42" circuitNumber="2" x="-92.156" y="143.839" z="0.000" rz="270.0">
 			<BadmarkReference refDes="B1" circuitNumber="2" />
 		</Component>
 		<Component partNumber="531-500480A" refDes="J3" circuitNumber="2" x="-95.999" y="118.509" z="0.000" rz="0.0">
 			<BadmarkReference refDes="B1" circuitNumber="2" />
 		</Component>
-		<Component partNumber="529-500168" refDes="U42" circuitNumber="3" x="-228.296" y="39.039" z="0.000" rz="270.0">
+		<Component partNumber="529-500168A" refDes="U42" circuitNumber="3" x="-228.296" y="39.039" z="0.000" rz="270.0">
 			<BadmarkReference refDes="B2" circuitNumber="3" />
 		</Component>
 		<Component partNumber="531-500480A" refDes="J3" circuitNumber="3" x="-232.139" y="13.709" z="0.000" rz="0.0">
 			<BadmarkReference refDes="B2" circuitNumber="3" />
 		</Component>
-		<Component partNumber="529-500168" refDes="U42" circuitNumber="4" x="-92.156" y="39.039" z="0.000" rz="270.0">
+		<Component partNumber="529-500168A" refDes="U42" circuitNumber="4" x="-92.156" y="39.039" z="0.000" rz="270.0">
 			<BadmarkReference refDes="B3" circuitNumber="4" />
 		</Component>
 		<Component partNumber="531-500480A" refDes="J3" circuitNumber="4" x="-95.999" y="13.709" z="0.000" rz="0.0">
@@ -84,10 +84,10 @@
 		<Setup>
 			<FeedSection number="1" type="A_Series_Tray_Trolley">
 				<Feeder slotNumber="1" cacheSlotNumber="102" type="A_Series_Tray_Pallet">
-					<FeederLane number="1" partNumber="529-500168" shapeId="BGA1285_2705SQR_P65_80H200" trayId="T.4.10.33.31" x="11.400" y="-18.750" rz="270.0" />
+					<FeederLane number="1" partNumber="529-500168A" shapeId="BGA1285_2705SQR_P65_80H200" trayId="T.4.10.33.31" x="11.400" y="-18.750" rz="270.0" />
 				</Feeder>
 				<Feeder slotNumber="2" cacheSlotNumber="102" type="A_Series_Tray_Pallet">
-					<FeederLane number="1" partNumber="529-500168" shapeId="BGA1285_2705SQR_P65_80H200" trayId="T.4.10.33.31" x="11.400" y="-18.750" rz="270.0" />
+					<FeederLane number="1" partNumber="529-500168A" shapeId="BGA1285_2705SQR_P65_80H200" trayId="T.4.10.33.31" x="11.400" y="-18.750" rz="270.0" />
 				</Feeder>
 			</FeedSection>
 			<FeedSection number="2" type="FDR_TROLLEY_43" />

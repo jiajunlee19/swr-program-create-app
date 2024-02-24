@@ -55,7 +55,7 @@
 		<Setting key="maxComponentsPerCircuitForMinimizingAlignmentMatrices" value="40" />
 		<Setting key="alternateFeedingStrategy" value="disallowAlternateOnSameFeeder" />
 	</General>
-	<Board id="3440CB-SD9-M5-IT" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" handlingClass="HIGH" maxComponentHeightNonProducingSide="20.000">
+	<Board id="3440CB-SD9-M5-IT-123457-NOPLACE-ALL" length="269.737" width="220.917" thickness="1.250" cadOriginX="0.000" cadOriginY="0.000" handlingClass="HIGH" maxComponentHeightNonProducingSide="20.000">
 		<Badmark modelId="r1574.8" x="-185.138" y="113.459" z="0.000" rz="0.00" refDes="B0" circuitNumber="1" />
 		<Badmark modelId="r1574.8" x="-48.998" y="113.459" z="0.000" rz="0.00" refDes="B1" circuitNumber="2" />
 		<Badmark modelId="r1574.8" x="-185.138" y="8.659" z="0.000" rz="0.00" refDes="B2" circuitNumber="3" />
@@ -1895,9 +1895,6 @@
 				</Feeder>
 				<Feeder number="16" type="ITF2_08">
 					<Lane number="1" partNumber="510-501070" shapeId="SMR0201" />
-				</Feeder>
-				<Feeder number="17" type="ITF2_08">
-					<Lane number="1" partNumber="510-500956" shapeId="SMR0402" />
 				</Feeder>
 				<Feeder number="18" type="ITF2_08">
 					<Lane number="1" partNumber="511-500590" shapeId="SMC0201" />
